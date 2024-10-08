@@ -26,22 +26,7 @@ body{
     padding-top: 25px;
 }
 
-.top-vision-container{
-    height: auto;
-    width: 80%;
-    background-color: #ffffff30;
-    border: 1px solid #a7a9ad51;
-    box-shadow: 0px 0px 10px #00000070;
-    border-radius: 30px;
-    padding: 1.5% 0 1.5% 0;
-
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-}
-
-.bottom-vision-container{
+.vision-container{
     height: auto;
     width: 80%;
     background-color: #ffffff30;
